@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá, me chamo Renan Wagner! 👋
 
-<!--
-**renanwagner/renanwagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor interessado em tecnologia, dados e automação. Atualmente, estou aprimorando minhas habilidades em análise de dados.
 
-Here are some ideas to get you started:
+🚀 Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Linguagens: Python, SQL
+
+🛠️ Ferramentas: MySQL, Ubuntu, GoogleSheets
+
+🌟 Projetos Destacados
+
+Aqui estão alguns dos meus projetos mais recentes:
+
+🔹 Calculadora.py (https://github.com/renanwagner/Calculadora-Python) - Uma calculadora inteligente e simples programada em python.
+
+🔹 BD-varejo-cliente(https://github.com/renanwagner/BD_-varejo_cliente) - Um banco de dados criado no MySQL para o registro dos clientes já cadastrados.
+
+🔹 BD-restaurante(https://github.com/renanwagner/BD_Restaurante) - Um banco de dados criado no MySQL que conecta dados de funcionários, clientes, produtos e pedidos.
+
+📫 Contato
+
+Quer trocar uma ideia ou trabalhar comigo? Você pode me encontrar aqui:
+
+✉️ E-mail: renanwagner1112@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/renan-wagner-b37b2a29a/
