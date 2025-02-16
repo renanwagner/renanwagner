@@ -14,7 +14,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 🔹 Calculadora.py (https://github.com/renanwagner/Calculadora-Python) - Uma calculadora inteligente e simples programada em python.
 
-🔹 BD-varejo-cliente(https://github.com/renanwagner/BD_-varejo_cliente) - Um banco de dados criado no MySQL para o registro dos clientes já cadastrados.
+🔹 BD-varejo-cliente(https://github.com/renanwagner/BD-informatica) - Um banco de dados criado no MySQL para o registro de clientes.
 
 🔹 BD-restaurante(https://github.com/renanwagner/BD_Restaurante) - Um banco de dados criado no MySQL que conecta dados de funcionários, clientes, produtos e pedidos.
 
