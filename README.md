@@ -6,13 +6,13 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor interessado em tecnologi
 
 💻 Linguagens: Python, SQL
 
-🛠️ Ferramentas: MySQL, Ubuntu, GoogleSheets
+🛠️ Ferramentas: MySQL, Ubuntu, GoogleSheets, PyCharm, Pyspark, Power BI
 
 🌟 Projetos Destacados
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-🔹 Calculadora.py (https://github.com/renanwagner/Calculadora-Python) - Uma calculadora inteligente e simples programada em python.
+🔹  E-commerce Data Analysis(https://github.com/renanwagner/analise-mercado-livre) - Projeto completo de análise de dados de produtos do Mercado Livre. Inclui preparação, limpeza, estatísticas descritivas e visualizações estáticas e interativas com Python.
 
 🔹 BD-informatica(https://github.com/renanwagner/BD-informatica) - Um banco de dados criado no MySQL para o registro de clientes.
 
