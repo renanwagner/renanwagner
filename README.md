@@ -14,7 +14,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 🔹  E-commerce Data Analysis(https://github.com/renanwagner/analise-mercado-livre) - Projeto completo de análise de dados de produtos do Mercado Livre. Inclui preparação, limpeza, estatísticas descritivas e visualizações estáticas e interativas com Python.
 
-🔹 BD-informatica(https://github.com/renanwagner/BD-informatica) - Um banco de dados criado no MySQL para o registro de clientes.
+🔹 Steam Best-Selling Games Analysis(https://github.com/renanwagner/SteamBestSalesAnalysis) - Limpeza de dados, modelos de regressão e visualizações interativas com Python.
 
 🔹 BD-restaurante(https://github.com/renanwagner/BD_Restaurante) - Um banco de dados criado no MySQL que conecta dados de funcionários, clientes, produtos e pedidos.
 
