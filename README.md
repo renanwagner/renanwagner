@@ -16,7 +16,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 🔹 Steam Best-Selling Games Analysis(https://github.com/renanwagner/SteamBestSalesAnalysis) - Limpeza de dados, modelos de regressão e visualizações interativas com Python.
 
-🔹 BD-restaurante(https://github.com/renanwagner/BD_Restaurante) - Um banco de dados criado no MySQL que conecta dados de funcionários, clientes, produtos e pedidos.
+🔹  Snyder_Genres_Analysis((https://github.com/renanwagner/Snyder_Genres_Analysis) - Projeto de análise de dados com foco em lucros médios de filmes organizados por gêneros segundo a tipologia de Blake Snyder. Utiliza SQL para limpeza, tratamento e identificação de outliers em dados de bilheteria.
 
 📫 Contato
 
