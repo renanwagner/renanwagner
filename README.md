@@ -6,6 +6,13 @@
 
 ---
 
+### 📬 Contato
+
+- ✉️ renanwagner1112@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/renan-wagner-b37b2a29a/)
+
+---
+
 ### 💡 Sobre mim
 
 Sou um entusiasta da tecnologia com grande interesse por dados, automação e desenvolvimento. Atualmente, estou me especializando em Análise de Dados, combinando Python, SQL e ferramentas de visualização para transformar dados em soluções reais.
@@ -29,13 +36,6 @@ Estudo de vendas de jogos na Steam, com foco em regressão e visualizações int
 
 🎬 [**Snyder Genres Analysis**](https://github.com/renanwagner/Snyder_Genres_Analysis)  
 Exploração dos gêneros de roteiro de Blake Snyder via SQL e análise de bilheteria.
-
----
-
-### 📬 Contato
-
-- ✉️ renanwagner1112@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/renan-wagner-b37b2a29a/)
 
 ---
 
