@@ -1,27 +1,44 @@
-Olá, me chamo Renan Wagner! 👋
+<h1 align="center">👋 Olá, eu sou o Renan Wagner!</h1>
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor interessado em tecnologia, dados e automação. Atualmente, estou aprimorando minhas habilidades em análise de dados.
+<p align="center">
+  🎓 Estudante de Ciência da Computação | 📊 Apaixonado por Dados e Automação | 🚀 Em busca de oportunidades em Análise de Dados
+</p>
 
-🚀 Habilidades
+---
 
-💻 Linguagens: Python, SQL
+### 💡 Sobre mim
 
-🛠️ Ferramentas: MySQL, Ubuntu, GoogleSheets, PyCharm, Pyspark, Power BI
+Sou um entusiasta da tecnologia com grande interesse por dados, automação e desenvolvimento. Atualmente, estou me especializando em Análise de Dados, combinando Python, SQL e ferramentas de visualização para transformar dados em soluções reais.
 
-🌟 Projetos Destacados
+---
 
-Aqui estão alguns dos meus projetos mais recentes:
+### ⚙️ Habilidades Técnicas
 
-🔹  E-commerce Data Analysis(https://github.com/renanwagner/analise-mercado-livre) - Projeto completo de análise de dados de produtos do Mercado Livre. Inclui preparação, limpeza, estatísticas descritivas e visualizações estáticas e interativas com Python.
+- **Linguagens:** Python, SQL  
+- **Ferramentas & Tecnologias:** MySQL, Power BI, Google Sheets, PySpark, PyCharm, Ubuntu  
 
-🔹 Steam Best-Selling Games Analysis(https://github.com/renanwagner/SteamBestSalesAnalysis) - Limpeza de dados, modelos de regressão e visualizações interativas com Python.
+---
 
-🔹  Snyder_Genres_Analysis((https://github.com/renanwagner/Snyder_Genres_Analysis) - Projeto de análise de dados com foco em lucros médios de filmes organizados por gêneros segundo a tipologia de Blake Snyder. Utiliza SQL para limpeza, tratamento e identificação de outliers em dados de bilheteria.
+### 🌟 Projetos em Destaque
 
-📫 Contato
+📊 [**E-commerce Data Analysis**](https://github.com/renanwagner/analise-mercado-livre)  
+Análise de dados de produtos do Mercado Livre: limpeza, estatísticas descritivas e visualizações com Python.
 
-Quer trocar uma ideia ou trabalhar comigo? Você pode me encontrar aqui:
+🎮 [**Steam Best-Selling Games Analysis**](https://github.com/renanwagner/SteamBestSalesAnalysis)  
+Estudo de vendas de jogos na Steam, com foco em regressão e visualizações interativas.
 
-✉️ E-mail: renanwagner1112@gmail.com
+🎬 [**Snyder Genres Analysis**](https://github.com/renanwagner/Snyder_Genres_Analysis)  
+Exploração dos gêneros de roteiro de Blake Snyder via SQL e análise de bilheteria.
 
-🔗 LinkedIn: https://www.linkedin.com/in/renan-wagner-b37b2a29a/
+---
+
+### 📬 Contato
+
+- ✉️ renanwagner1112@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/renan-wagner-b37b2a29a/)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renanwagner&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
